@@ -1,0 +1,10 @@
+<div>
+    <input [(ngModel)]="query" placeholder="Enter your search query" />
+    <button (click)="search()">Search</button>
+</div>
+
+<div *ngFor="let result of results">
+    <!-- Display the results as needed -->
+    <p>{{ result.display_name }}</p>
+
+</div>
