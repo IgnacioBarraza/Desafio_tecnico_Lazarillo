@@ -1,1 +1,25 @@
-<p>search works!</p>
+<div class="select-engine">
+    <select name="search-engine" id="search-engine" [formControl]="searchEngineSelected">
+        <option value="">Seleciona un buscador</option>
+        <option *ngFor="let engine of searchEngines" [value]="engine">{{ engine }}</option>
+    </select>
+    <div class="select-btn">
+        <button (click)="engineQuery()">Seleccionar buscador</button>
+    </div>
+</div>
+<form [formGroup]="nominatimForm" (ngSubmit)="onSubmit()" *ngIf="nominatimEngine && !overpassEngine">
+    
+    <input formControlName="query" placeholder="Enter your search query"/>
+    <button type="submit">Search</button>
+</form> 
+<form [formGroup]="overpassForm" (ngSubmit)="onSubmit()" *ngIf="overpassEngine && !nominatimEngine">
+    <input formControlName="category" placeholder="Enter your search category"/>
+    <input formControlName="query" placeholder="Enter your search query"/>
+    <button type="submit">Search</button>
+</form> 
+
+<div *ngFor="let result of results">
+    <!-- Display the results as needed -->
+    <p>{{ result.display_name }}</p>
+
+</div>

@@ -1,0 +1,1503 @@
+[
+    {
+        "name": "Chile",
+        "regions": [
+            {
+                "name": "Arica y Parinacota",
+                "romanNumber": "XV",
+                "region_id": "15",
+                "comunas": [
+                    {
+                        "name": "Arica",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Camarones",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "General Lagos",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Putre",
+                        "overpass_id": ""
+                    }
+                ]
+            },
+            {
+                "name": "Tarapacá",
+                "romanNumber": "I",
+                "region_id": "1",
+                "comunas": [
+                    {
+                        "name": "Alto Hospicio",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Camiña",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Colchane",
+                        "overpass_id": "3600239348"
+                    },
+                    {
+                        "name": "Huara",
+                        "overpass_id": "3600239349"
+                    },
+                    {
+                        "name": "Iquique",
+                        "overpass_id": "3600239456"
+                    },
+                    {
+                        "name": "Pica",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Pozo Almonte",
+                        "overpass_id": ""
+                    }
+                ]
+            },
+            {
+                "name": "Antofagasta",
+                "romanNumber": "II",
+                "region_id": "2",
+                "comunas": [
+                    {
+                        "name": "Antofagasta",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Calama",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "María Elena",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Mejillones",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Ollagüe",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "San Pedro de Atacama",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Sierra Gorda",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Taltal",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Tocopilla",
+                        "overpass_id": ""
+                    }
+                ]
+            },
+            {
+                "name": "Atacama",
+                "romanNumber": "III",
+                "region_id": "3",
+                "comunas": [
+                    {
+                        "name": "Alto del Carmen",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Caldera",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Chañaral",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Copiapó",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Diego de Almagro",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Freirina",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Huasco",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Tierra Amarilla",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Vallenar",
+                        "overpass_id": ""
+                    }
+                ]
+            },
+            {
+                "name": "Coquimbo",
+                "romanNumber": "IV",
+                "region_id": "4",
+                "comunas": [
+                    {
+                        "name": "Andacollo",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Canela",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Combarbalá",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Coquimbo",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Illapel",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "La Higuera",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "La Serena",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Los Vilos",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Monte Patria",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Ovalle",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Paiguano",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Punitaqui",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Río Hurtado",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Salamanca",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Vicuña",
+                        "overpass_id": ""
+                    }
+                ]
+            },
+            {
+                "name": "Valparaíso",
+                "romanNumber": "V",
+                "region_id": "5",
+                "comunas": [
+                    {
+                        "name": "Algarrobo",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Cabildo",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Calera",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Calle Larga",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Cartagena",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Casablanca",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Catemu",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Concón",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "El Quisco",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "El Tabo",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Hijuelas",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Isla de Pascua",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Juan Fernández",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "La Cruz",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "La Ligua",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Limache",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Llaillay",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Los Andes",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Nogales",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Olmué",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Panquehue",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Papudo",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Petorca",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Puchuncaví",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Putaendo",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Quillota",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Quilpué",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Quintero",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Rinconada",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "San Antonio",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "San Esteban",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "San Felipe",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Santa María",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Santo Domingo",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Valparaíso",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Villa Alemana",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Viña del Mar",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Zapallar",
+                        "overpass_id": ""
+                    }
+                ]
+            },
+            {
+                "name": "Metropolitana de Santiago",
+                "romanNumber": "XIII",
+                "region_id": "13",
+                "comunas": [
+                    {
+                        "name": "Alhué",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Buin",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Calera de Tango",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Cerrillos",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Cerro Navia",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Colina",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Conchalí",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Curacaví",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "El Bosque",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "El Monte",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Estación Central",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Huechuraba",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Independencia",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Isla de Maipo",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "La Cisterna",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "La Florida",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "La Granja",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "La Pintana",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "La Reina",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Lampa",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Las Condes",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Lo Barnechea",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Lo Espejo",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Lo Prado",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Macul",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Maipú",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "María Pinto",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Melipilla",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Ñuñoa",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Padre Hurtado",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Paine",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Pedro Aguirre Cerda",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Peñaflor",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Peñalolén",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Pirque",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Providencia",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Pudahuel",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Puente Alto",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Quilicura",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Quinta Normal",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Recoleta",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Renca",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "San Bernardo",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "San Joaquín",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "San José de Maipo",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "San Miguel",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "San Pedro",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "San Ramón",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Santiago",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Talagante",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Tiltil",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Vitacura",
+                        "overpass_id": ""
+                    }
+                ]
+            },
+            {
+                "name": "Libertador Gral. Bernardo O’Higgins",
+                "romanNumber": "VI",
+                "region_id": "6",
+                "comunas": [
+                    {
+                        "name": "Chimbarongo",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Chépica",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Codegua",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Coinco",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Coltauco",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Doñihue",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Graneros",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "La Estrella",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Las Cabras",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Litueche",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Lolol",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Machalí",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Malloa",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Marchihue",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Nancagua",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Navidad",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Olivar",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Palmilla",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Paredones",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Peralillo",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Peumo",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Pichidegua",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Pichilemu",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Placilla",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Pumanque",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Quinta de Tilcoco",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Rancagua",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Rengo",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Requínoa",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "San Fernando",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "San Francisco de Mostazal",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "San Vicente de Tagua Tagua",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Santa Cruz",
+                        "overpass_id": ""
+                    }
+                ]
+            },
+            {
+                "name": "Maule",
+                "romanNumber": "VII",
+                "region_id": "7",
+                "comunas": [
+                    {
+                        "name": "Cauquenes",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Chanco",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Colbún",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Constitución",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Curepto",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Curicó",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Empedrado",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Hualañé",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Licantén",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Linares",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Longaví",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Maule",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Molina",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Parral",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Pelarco",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Pelluhue",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Pencahue",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Rauco",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Retiro",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Romeral",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Río Claro",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Sagrada Familia",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "San Clemente",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "San Javier de Loncomilla",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "San Rafael",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Talca",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Teno",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Vichuquén",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Villa Alegre",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Yerbas Buenas",
+                        "overpass_id": ""
+                    }
+                ]
+            },
+            {
+                "name": "Ñuble",
+                "romanNumber": "XVI",
+                "region_id": "16",
+                "comunas": [
+                    {
+                        "name": "Bulnes",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Chillán Viejo",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Chillán",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Cobquecura",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Coelemu",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Coihueco",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "El Carmen",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Ninhue",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Ñiquén",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Pemuco",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Pinto",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Portezuelo",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Quillón",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Quirihue",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Ránquil",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "San Carlos",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "San Fabián",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "San Ignacio",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "San Nicolás",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Treguaco",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Yungay",
+                        "overpass_id": ""
+                    }
+                ]
+            },
+            {
+                "name": "Biobío",
+                "romanNumber": "VIII",
+                "region_id": "8",
+                "comunas": [
+                    {
+                        "name": "Alto Biobío",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Antuco",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Arauco",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Cabrero",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Cañete",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Chiguayante",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Concepción",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Contulmo",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Coronel",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Curanilahue",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Florida",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Hualpén",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Hualqui",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Laja",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Lebu",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Los Álamos",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Los Ángeles",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Lota",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Mulchén",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Nacimiento",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Negrete",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Penco",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Quilaco",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Quilleco",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "San Pedro de la Paz",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "San Rosendo",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Santa Bárbara",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Santa Juana",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Talcahuano",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Tirúa",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Tomé",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Tucapel",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Yumbel",
+                        "overpass_id": ""
+                    }
+                ]
+            },
+            {
+                "name": "Araucanía",
+                "romanNumber": "IX",
+                "region_id": "9",
+                "comunas": [
+                    {
+                        "name": "Angol",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Carahue",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Cholchol",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Collipulli",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Cunco",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Curacautín",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Curarrehue",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Ercilla",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Freire",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Galvarino",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Gorbea",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Lautaro",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Loncoche",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Lonquimay",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Los Sauces",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Lumaco",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Melipeuco",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Nueva Imperial",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Padre las Casas",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Perquenco",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Pitrufquén",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Pucón",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Purén",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Renaico",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Saavedra",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Temuco",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Teodoro Schmidt",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Toltén",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Traiguén",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Victoria",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Vilcún",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Villarrica",
+                        "overpass_id": ""
+                    }
+                ]
+            },
+            {
+                "name": "Los Ríos",
+                "romanNumber": "XIV",
+                "region_id": "14",
+                "comunas": [
+                    {
+                        "name": "Corral",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Futrono",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "La Unión",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Lago Ranco",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Lanco",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Los Lagos",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Mariquina",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Máfil",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Paillaco",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Panguipulli",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Río Bueno",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Valdivia",
+                        "overpass_id": ""
+                    }
+                ]
+            },
+            {
+                "name": "Los Lagos",
+                "romanNumber": "X",
+                "region_id": "10",
+                "comunas": [
+                    {
+                        "name": "Ancud",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Calbuco",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Castro",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Chaitén",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Chonchi",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Cochamó",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Curaco de Vélez",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Dalcahue",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Fresia",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Frutillar",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Futaleufú",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Hualaihué",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Llanquihue",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Los Muermos",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Maullín",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Osorno",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Palena",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Puerto Montt",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Puerto Octay",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Puerto Varas",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Puqueldón",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Purranque",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Puyehue",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Queilén",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Quellón",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Quemchi",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Quinchao",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Río Negro",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "San Juan de la Costa",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "San Pablo",
+                        "overpass_id": ""
+                    }
+                ]
+            },
+            {
+                "name": "Aisén del Gral. Carlos Ibáñez del Campo",
+                "romanNumber": "XI",
+                "region_id": "11",
+                "comunas": [
+                    {
+                        "name": "Aisén",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Chile Chico",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Cisnes",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Cochrane",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Coyhaique",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Guaitecas",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Lago Verde",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "O'Higgins",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Río Ibáñez",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Tortel",
+                        "overpass_id": ""
+                    }
+                ]
+            },
+            {
+                "name": "Magallanes y de la Antártica Chilena",
+                "romanNumber": "XII",
+                "region_id": "12",
+                "comunas": [
+                    {
+                        "name": "Antártica",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Cabo de Hornos (Ex Navarino)",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Laguna Blanca",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Natales",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Porvenir",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Primavera",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Punta Arenas",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Río Verde",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "San Gregorio",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Timaukel",
+                        "overpass_id": ""
+                    },
+                    {
+                        "name": "Torres del Paine",
+                        "overpass_id": ""
+                    }
+                ]
+            }
+        ]
+    }
+]
